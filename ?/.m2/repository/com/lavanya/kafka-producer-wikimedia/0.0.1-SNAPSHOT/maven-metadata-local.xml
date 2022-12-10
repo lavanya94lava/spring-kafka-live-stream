@@ -3,7 +3,7 @@
   <groupId>com.lavanya</groupId>
   <artifactId>kafka-producer-wikimedia</artifactId>
   <versioning>
-    <lastUpdated>20221210194326</lastUpdated>
+    <lastUpdated>20221210211048</lastUpdated>
     <snapshot>
       <localCopy>true</localCopy>
     </snapshot>
@@ -11,12 +11,12 @@
       <snapshotVersion>
         <extension>jar</extension>
         <value>0.0.1-SNAPSHOT</value>
-        <updated>20221210194326</updated>
+        <updated>20221210211048</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
         <value>0.0.1-SNAPSHOT</value>
-        <updated>20221210194326</updated>
+        <updated>20221210211048</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>

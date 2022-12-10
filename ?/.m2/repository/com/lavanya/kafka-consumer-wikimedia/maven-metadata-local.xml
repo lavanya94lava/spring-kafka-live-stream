@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.lavanya</groupId>
+  <artifactId>kafka-consumer-wikimedia</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20221210211048</lastUpdated>
+  </versioning>
+</metadata>
